@@ -1,0 +1,36 @@
+PS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+Initialized empty Git repository in C:/Users/Yume9/OneDrive/ドキュメント/git_challenge/.git/
+PS C:\Users\Yume9\OneDrive\ドキュメント\giPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュ メント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+PS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\giPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキ ュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\giPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\giPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ド キュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+PS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+Initialized empty Git repository in C:/PS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+PS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+Initialized empty Git repository in C:/Users/Yume9/OneDrive/ドキュメント/git_challenge/.git/
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git add hello_world.txt            \Yume9\OneDrive\ドキュメPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge        it_challeng>
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+PS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\gitPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメントPS C:\Users\Yume9> cd C:\Users\Yume9\OneDrive\ドキュメント\git_challenge
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git init
+Initialized empty Git repository in C:/Users/Yume9/OneDrive/ドキュメント/git_challenge/.git/
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git add hello_world.txt
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challeng>       
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challeng> git commit -m "初回コミット"
+[main (root-commit) e9e4269] 初回コミット
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git add hello_world.txt
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challeng> git commit -m "２回目のコミット"
+[main 8adcd26] ２回目のコミット
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>git log --oneline
+8adcd26 (HEAD -> main) ２回目のコミット
+e9e4269 初回コミット
+PS C:\Users\Yume9\OneDrive\ドキュメント\git_challenge>   
